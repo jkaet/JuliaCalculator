@@ -1,3 +1,3 @@
-# Repository Title Goes Here
+# Julia Calculator
 
->First proper Julia project. A calculator. 
+>First proper Julia project. A calculator.
